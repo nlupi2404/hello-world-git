@@ -88,4 +88,16 @@ Esto es un texto referente a una cita que pondremos abajo:
 Esto es otro texto que no se relaciona con la cita anterior 
 > Tu eres el ultimo juez de tus acciones
 
+# Lineas Divisoras
+
+Esto un texto que sera divido
+
+---
+Esto es otro texto dividido.
+
+***
+
+
+
+
 
