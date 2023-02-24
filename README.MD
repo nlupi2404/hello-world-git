@@ -82,6 +82,10 @@ export  $initHighlight;
 |Natalia| Gonzañez | 34567213 |
 
 # Citas
+Esto es un texto referente a una cita que pondremos abajo:
+> Esto es una Cita.
 
+Esto es otro texto que no se relaciona con la cita anterior 
+> Tu eres el ultimo juez de tus acciones
 
 
